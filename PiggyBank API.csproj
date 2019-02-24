@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App"/>
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All"/>
+    <PackageReference Include="MySql.Data" Version="8.0.13"/>
+    <PackageReference Include="FireSharp.Serialization.JsonNet" Version="*"/>
+    <PackageReference Include="Firebase.Database" Version="*"/>
+    <PackageReference Include="FirebaseDatabase.net" Version="*"/>
+    <PackageReference Include="FirebaseNet16" Version="1.6.0"/>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\bin\Debug\netcoreapp2.1\PiggyBank API.deps.json
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\bin\Debug\netcoreapp2.1\PiggyBank API.runtimeconfig.json
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\bin\Debug\netcoreapp2.1\PiggyBank API.runtimeconfig.dev.json
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\bin\Debug\netcoreapp2.1\PiggyBank API.dll
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\bin\Debug\netcoreapp2.1\PiggyBank API.pdb
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\obj\Debug\netcoreapp2.1\PiggyBank API.csprojAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\obj\Debug\netcoreapp2.1\PiggyBank API.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\obj\Debug\netcoreapp2.1\PiggyBank API.RazorAssemblyInfo.cache
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\obj\Debug\netcoreapp2.1\PiggyBank API.RazorAssemblyInfo.cs
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\obj\Debug\netcoreapp2.1\PiggyBank API.AssemblyInfoInputs.cache
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\obj\Debug\netcoreapp2.1\PiggyBank API.AssemblyInfo.cs
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\obj\Debug\netcoreapp2.1\PiggyBank API.RazorTargetAssemblyInfo.cache
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\obj\Debug\netcoreapp2.1\PiggyBank API.dll
+C:\Users\Bartek\Documents\Visual Studio Code\PiggyBank API\obj\Debug\netcoreapp2.1\PiggyBank API.pdb
